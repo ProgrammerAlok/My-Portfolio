@@ -9,8 +9,8 @@
 body{
     height: 100vh;
     width: 100vw;
-    /* background-color: #edf1fb; */
-    background-color: #edf6f9;
+    background-color: #edf1fb;
+/*     background-color: #edf6f9; */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
